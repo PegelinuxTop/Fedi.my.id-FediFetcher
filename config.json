@@ -1,7 +1,7 @@
 {
   "server": "pegelinux.top",
   "home-timeline-length": 100,
-  "max-followings": 150,
+  "max-followings": 200,
   "from-notifications": 0,
   "max-bookmarks": 20,
   "backfill-with-context": 0,
