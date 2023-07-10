@@ -4,6 +4,7 @@
   "max-followings": 20,
   "from-notifications": 1,
   "max-bookmarks": 20,
+  "max-follow-requests": 10,
   "backfill-with-context": 0,
   "backfill-mentioned-users": 0,
   "remember-users-for-hours": 700,
