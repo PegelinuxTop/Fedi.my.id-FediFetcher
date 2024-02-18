@@ -1,14 +1,14 @@
 {
   "server": "pegelinux.top",
-  "max-followings": 20,
-  "home-timeline-length": 200,
+  "max-followings": 0,
+  "home-timeline-length": 300,
   "reply-interval-in-hours": 48,
   "from-notifications": 1,
   "max-bookmarks": 20,
   "max-follow-requests": 10,
   "backfill-with-context": 0,
   "backfill-mentioned-users": 0,
-  "remember-users-for-hours": 700,
+  "remember-users-for-hours": 72,
   "http-timeout": 5,
   "on-done": "https://hc-ping.com/cb31e971-6cae-4274-b166-eea890d055db"
 }
