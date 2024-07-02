@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     environment: mastodon
     steps:
-      - name: Checkout original repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      # - name: Checkout original repository
+      #   uses: actions/checkout@v4
+      #   with:
+      #     fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
