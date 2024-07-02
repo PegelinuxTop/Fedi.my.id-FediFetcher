@@ -1076,7 +1076,7 @@ def can_fetch(user_agent, url):
 
 
 def user_agent():
-    return f"FediFetcher/{VERSION}; +{arguments.server} (https://go.thms.uk/ff)"
+    return f"FediFetcher/{VERSION}; (https://go.thms.uk/ff)"
 
 def get(url, headers = {}, timeout = 0, max_tries = 5, ignore_robots_txt = False):
     """A simple wrapper to make a get request while providing our user agent, and respecting rate limits"""
